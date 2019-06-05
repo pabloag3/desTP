@@ -3,3 +3,5 @@
 /__pycache__
 *.txt
 *.csv
+/JDesTP/nbproject/private/
+/JDesTP/build/
